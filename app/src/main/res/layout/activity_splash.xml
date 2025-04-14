@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow"> <!-- Optional: Set a background color -->
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="341dp"
+        android:layout_height="305dp"
+        android:layout_centerInParent="true"
+        android:background="@color/yellow"
+        android:contentDescription="@string/app_name"
+        android:scaleType="centerCrop"
+        android:src="@drawable/splashlogo" />
+</RelativeLayout>
