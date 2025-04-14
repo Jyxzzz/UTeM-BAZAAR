@@ -1,0 +1,1 @@
+Simple E-commerce Project  for my Final Year Project.I am using firebase as my backend and node js to create token for my paypal token.Then we store the token in the firebase. .For paypal payment im only using paypal braintree sandbox.
