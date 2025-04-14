@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Jyxzzz/UTeM-BAZAAR)](https://github.com/Jyxzzz/UTeM-BAZAAR/stargazers)
 
-A simple E-commerce app specifially for my univercity that i built for my final year project.This is never meant to be used or sell as a real application.
+A simple E-commerce app specifially for my university that i built for my final year project.This is never meant to be used or sell as a real application.
 
 ![Project Screenshot](screenshots/screenshot.png)
 
