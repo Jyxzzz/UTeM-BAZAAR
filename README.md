@@ -1,16 +1,18 @@
-# Project Name
+# UTeM-BAZAAR
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo)](https://github.com/yourusername/yourrepo/stargazers)
 
-One-paragraph project description that explains what your project does and why it exists.
+A simple E-commerce app specifially for my univercity that i built for my final year project.This is never meant to be used or sell as a real application.
 
 ![Project Screenshot](screenshots/screenshot.png)
 
 ## Features
 
-* Feature 1: Brief description
-* Feature 2: Brief description
-* Feature 3: Brief description
+* Cart System: Users can add item to cart and edit item quantity.
+* Checkout: User need to enter address 
+* Seller Panel : Seller can upload their product
+* Filter : Searchbar have filter by price or alphabet.
+  
 
 ## Installation
